@@ -13,6 +13,7 @@
 </p>
 <div align="center">
   <img align="center" src="/metrics.classic.svg" alt="Metrics" width="400">
+  <div width="100">
   <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
 </div>
 
