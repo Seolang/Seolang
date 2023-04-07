@@ -1,6 +1,6 @@
-<h1>Hello my new friend?</h1>
-<h3>📚 Tech Stack 📚</h3>
-<p>
+<h1 align="center">Hello my new friend?</h1>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seolang&show_icons=true&theme=tokyonight)
 <br/>
 <img align="center" src="/metrics.classic.svg" alt="Metrics" width="500">
@@ -22,3 +23,4 @@
 
 [![Solved.ac
 dntmdqls0912](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+</center>
