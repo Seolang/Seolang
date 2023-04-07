@@ -1,4 +1,4 @@
-<h3 align="center">Hello my new friend?</h3>
+<h1 align="center">Hello my new friend?</h1>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
