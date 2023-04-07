@@ -20,5 +20,4 @@
 <div>
   <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="500">
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
