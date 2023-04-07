@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seolang&show_icons=true&theme=tokyonight)
+<br/>
 <img align="center" src="/metrics.classic.svg" alt="Metrics" width="500">
 <br/>
 <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="500">
-
-<br/>
 <br/>
 
 [![Solved.ac
