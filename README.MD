@@ -11,8 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
+<img align="center" src="/metrics.classic.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
 
-![img](metrics.classic.svg)
-
-![img](metrics.plugin.languages.svg)
 
