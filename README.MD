@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  ![img](metrics.classic.svg)
+![img](metrics.classic.svg)
 
-  ![img](metrics.plugin.languages.svg)
+![img](metrics.plugin.languages.svg)
 </p>
 
