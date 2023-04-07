@@ -1,6 +1,6 @@
-<h1 align="center">Hello my new friend?</h1>
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h1>Hello my new friend?</h1>
+<h3>📚 Tech Stack 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
