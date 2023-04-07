@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-![img](metrics.classic.svg)
+<p align="center">
+  ![img](metrics.classic.svg)
 
-![img](metrics.plugin.languages.svg)
-
+  ![img](metrics.plugin.languages.svg)
+</p>
 
