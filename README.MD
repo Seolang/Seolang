@@ -14,12 +14,10 @@
 </p>
 <div>
   <img align="center" src="/metrics.classic.svg" alt="Metrics" width="500">
-</div>
-<br/>
-<br/>
-<div>
   <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="500">
 </div>
+<br/>
+<br/>
 
 [![Solved.ac
 dntmdqls0912](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
