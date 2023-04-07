@@ -15,12 +15,16 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seolang&show_icons=true&theme=tokyonight)
+[![Solved.ac
+dntmdqls0912](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+
+<div align=center>
 <br/>
 <img align="center" src="/metrics.classic.svg" alt="Metrics" width="500">
 <br/>
 <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="500">
 <br/>
+</div>
 
-[![Solved.ac
-dntmdqls0912](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+
 
