@@ -12,10 +12,12 @@
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-<div align="center">
+<div>
   <img align="center" src="/metrics.classic.svg" alt="Metrics" width="500">
-  <br/>
-  <br/>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+</div>
+<br/>
+<br/>
+<div>
   <img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="500">
 </div>
-
