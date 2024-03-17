@@ -1,4 +1,4 @@
-<h1 align="center">Hello my new friend?</h1>
+<h1 align="center">hello there</h1>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-### Baekjoon Rank
-[![Solved.ac
-dntmdqls0912](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdqls0912)](https://solved.ac/dntmdqls0912)
+
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seolang&show_icons=true&theme=tokyonight)
 
